@@ -39,3 +39,95 @@ Confirm your rental? (Y/N): Y
 Done!
 Please proceed to the payment.
 Thank You!
+
+//283667 Song Zhuangqing
+
+Please enter your name:
+song
+Please enter your phone number:
+123
+Welcome to Car Online Sales Platform
+What kind of vehicle do you want to browse?(Please enter the number of the type.)
+1.Car
+2.MPV
+3.SUV
+4.Sports car
+5.Truck
+4
+1.Ferrari F8 
+2.Aston Martin V8 Vantage
+3.Porsche 718
+1
+1.Low-level version:1,994,000RM
+2.Premium version:2,266,000RM
+2
+The gifts are:All service items are free for life
+Please choose the way and enter the number you want to pick up the car:
+1.Delivered by staff
+2.Pick up the car by yourself
+1
+1.Delivered by staff
+The information for you:
+The gifts are:All service items are free for life
+Your name is:song
+Your phone number is:123
+Your car is:Ferrari F8
+Your way to pick up the car is:1.Delivered by staff
+
+//283950 Muhammad Haikal
+
+//285676 Andyson Junis Anak James
+
+********** Welcome to the Ticket Booking System*************
+
+ Do you want to continue? 
+ 1. Yes            2. No  
+ Enter Your Choice: 1
+
+ You can Enter The System.
+******************************
+Please fill Up Your Personal Detail.
+ Enter Your First Name: Andson
+ Enter Your Age: 21
+ Enter Your Gender: Male
+ Enter your destination:Selangor
+
+ Please Check Your Personal Detail: 
+Andson
+21
+Male
+Selangor
+***********************************
+ Thank You For Entering The System.
+
+ Please Fill Up Your Ticket Detail.
+ You can refer here before make some choice.
+****************************************
+*Ticket Price/Ticket Type/Trip         *
+****************************************
+* Adult = RM 55.00 per person          *
+* Child = RM 32.00 per person          *
+****************************************
+* Economic = normal price              *
+* VIP      = RM 100                    *
+****************************************
+* 1. One Way                           *
+* 2. Round Trip - 15 % discounts       *
+****************************************
+
+Enter Your Trip: Round Trip
+
+Please Enter Your Departure Date: 
+28/1/22
+Please Enter Your Return Date: 
+29/1/22
+How many ny passenger you'd like to bring?
+
+Adult: 3
+Child: 3
+
+Please select your ticket type :
+0.Economy       1. VIP 
+Selection: 1
+
+      The Total After Discount is: RM 391.85
