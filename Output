@@ -1,0 +1,41 @@
+//270659 Tey Eng Zin
+
+Welcome to the Zin's Motorcycle Rental System!
+
+1. Personal Background
+Please enter your personal details here.
+Enter your name: TEY ENG ZIN
+Enter your NRIC: 991112109027
+Enter your phone number: 60183794773
+Enter your email address: teyengzin@gmail.com
+
+Name	 : TEY ENG ZIN
+NRIC	 : 991112109027
+Phone	 : 60183794773
+Email	 : teyengzin@gmail.com
+
+2. Packages
+We Provide: 
+Package No.1: Scooters 110-125cc for Town Only - RM40 per day
+Package No.2: Semi Auto 110CC for Long Distance - RM50 per day
+Package No.3: Semi Auto 125CC for Long Distance - RM50 per day
+Package No.4: Semi Auto 150CC for Long Distance - RM65 per day
+
+3. Selection
+Refer to the packages, please enter the following details.
+Enter the package number you want to rent: 2
+Confirm your rental (Y/N): Y
+
+- Rental Details -
+Packages Ordered : 2
+Enter the rental days: 2
+Discount: RM10.0
+Total after discount: RM90.0
+
+Do you want to add-on rental? (Y/N): N
+
+Confirm your rental? (Y/N): Y
+
+Done!
+Please proceed to the payment.
+Thank You!
